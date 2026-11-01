@@ -1,0 +1,42 @@
+# macOS system files
+.DS_Store
+
+# Draft pages and styles
+index (1).html
+index (2).html
+index.htm
+index_v2.html
+index_v3.html
+index_v4.html
+index_files/
+style (1).css
+style (2).css
+style_v2.css
+style_v3.css
+style_v4.css
+contact.html
+presentation.html
+
+# Source figures and unused image versions
+figure materials/
+*.pdf
+!CV_Tamim.pdf
+!syllabus-math*.pdf
+fig1.jpg
+arcmp.jpg
+corner.jpg
+durotaxis.jpg
+gfm.jpg
+jfm2.jpg
+jfm3.jpg
+jfmspread.jpg
+ncbub.jpg
+pri.jpg
+pub1.jpg
+bubble_banner (1).png
+slide1.jpg
+slide1.png
+
+# Other local files
+*.docx
+Cyl_moving_sim.m4v
